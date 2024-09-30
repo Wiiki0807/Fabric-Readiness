@@ -22,10 +22,10 @@ At the end of the day, attendees will better understand:
 
 ### Labs
 
-- https://aka.ms/fabric-hod/lab1
-- https://aka.ms/fabric-hod/laba
-- https://aka.ms/fabric-hod/labb
-- https://aka.ms/fabric-hod/labc
+- https://aka.ms/fabric-hod/lab1 Lakehouse end-to-end scenario: overview and architecture
+- https://aka.ms/fabric-hod/laba Data warehouse tutorial introduction
+- https://aka.ms/fabric-hod/labb Data science end-to-end scenario: introduction and architecture
+- https://aka.ms/fabric-hod/labc https://learn.microsoft.com/en-us/fabric/real-time-intelligence/tutorial-introduction
 
 ## For Instructors
 
